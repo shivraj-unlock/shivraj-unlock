@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Shiv Raj Bhagat
-- 👋 Hi, You can find me on [linkedln]([url](https://www.linkedin.com/in/rajshiv169/))
+- 👋 Hi, You can find me on [linkedln]([linkedln](https://www.linkedin.com/in/rajshiv169/))
 - 👀 I’m interested in Tech
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
